@@ -1,5 +1,8 @@
 # BABUR-TERRA CODEX v3.0
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18780897.svg)](https://doi.org/10.5281/zenodo.18780897)
+
+
 **Manifest: From Ferghana to Fractal Silk Road**
 
 [O'zbek](lang/uz/MANIFEST.md) | [اردو](lang/ur/MANIFEST.md) | [हिन्दी](lang/hi/MANIFEST.md)
@@ -83,3 +86,10 @@ Current manifests are v1.0-draft. **Native speaker review required** for all thr
 **Contact:** a.abdukarimov@fractal-metascience.org  
 **Website:** https://fractal-metascience.org  
 **GitHub:** https://github.com/Secret-Uzbek
+## How to cite
+
+**Version (recommended for reproducibility):**
+- Abdukarimov, Abdurashid Abdulkhamitovich. *BABUR-TERRA CODEX v3.0: From Ferghana to Fractal Silk Road (v3.0.1).* Zenodo. https://doi.org/10.5281/zenodo.18780897
+
+**Repository:**
+- https://github.com/Secret-Uzbek/babur-terra-codex
