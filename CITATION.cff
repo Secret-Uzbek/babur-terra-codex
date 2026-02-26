@@ -1,28 +1,13 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
-type: software
 title: "BABUR-TERRA CODEX v3.0: From Ferghana to Fractal Silk Road"
-version: 3.0.0
-date-released: 2026-02-14
+type: software
+version: 3.0.1
+date-released: "2026-02-14"
+doi: 10.5281/zenodo.18780897
+repository-code: "https://github.com/Secret-Uzbek/babur-terra-codex"
+license: CC-BY-SA-4.0
 authors:
   - family-names: Abdukarimov
     given-names: Abdurashid Abdulkhamitovich
-    orcid: https://orcid.org/0009-0000-6394-4912
-    affiliation: "Fractal Metascience Foundation, Tashkent, Uzbekistan"
-abstract: >
-  A 13-module fractal analysis of Zahiruddin Muhammad Babur's legacy (1483–1530),
-  from Ferghana exile to the modern Fractal Silk Road proposal. Built on the
-  Fractal Metascience Paradigm (FMP). Published in Uzbek, Urdu, and Hindi
-  as an act of epistemic decolonization.
-keywords:
-  - Babur
-  - Fractal Metascience Paradigm
-  - FMP
-  - Central Asia
-  - Fractal Silk Road
-  - UST
-  - decolonial scholarship
-  - Chagatai
-license: CC-BY-SA-4.0
-repository-code: https://github.com/Secret-Uzbek/babur-terra-codex
-url: https://fractal-metascience.org
+    orcid: "https://orcid.org/0009-0000-6394-4912"
