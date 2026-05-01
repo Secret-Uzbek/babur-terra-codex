@@ -1,7 +1,19 @@
 cff-version: 1.2.0
-message: "If you use this work, cite it as below."
+message: "If you use or quote this human-facing research branch, please cite it as below."
+type: dataset
+title: "babur-terra-codex"
 authors:
   - family-names: Abdukarimov
     given-names: Abdurashid
     orcid: "https://orcid.org/0009-0000-6394-4912"
-title: "babur-terra-codex"
+    affiliation: "Fractal Metascience Foundation, Tashkent"
+repository-code: "https://github.com/Secret-Uzbek/babur-terra-codex"
+abstract: "Human-facing historical research branch focused on Babur, memory, and civilizational continuity within the Terra ecosystem."
+keywords:
+  - babur
+  - central-asia
+  - fractal-metascience
+  - history
+  - corpus
+license: CC0-1.0
+version: "1.0.0"
