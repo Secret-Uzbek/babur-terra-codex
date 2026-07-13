@@ -4,7 +4,7 @@ Chiqarilgan sana: 2026 yil 14 fevral (Boburning tug'ilgan kuni)
 Muallif: Abdurashid Abdukarimov
 Paradigma: Fraktal Metafan Paradigmasi (FMP)
 
-вљ пёЏ MUHIM OGOHLANTIRISH
+вљ ️ MUHIM OGOHLANTIRISH
 Ushbu hujjat dastlabki versiyadir va ona tilida so'zlashuvchi mutaxassislar tomonidan ko'rib chiqilishi kerak.
 Professional tarjimon va o'zbek tilshunoslari bilan hamkorlik talab etiladi.
 
